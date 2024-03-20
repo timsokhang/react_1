@@ -1,0 +1,9 @@
+.custom-table {
+    width: 100%; /* Set table width to 100% */
+  }
+  
+  .custom-table th,
+  .custom-table td {
+    min-width: 200px; /* Set minimum width for table cells */
+  }
+  
